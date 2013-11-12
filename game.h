@@ -5,7 +5,6 @@
  * This is shell code for the game to be implemented in Lab 4.  It provides basic functions that may prove useful in accomplishing the lab.
  */
 
-
 #define UP 1
 #define DOWN 2
 #define LEFT 3
@@ -43,7 +42,7 @@ char didPlayerWin(unsigned char player);
 /*
  * Functions which may prove useful in achieving A-Functionality.
  * 
-char didPlayerHitMine(unsigned char player, unsigned char mines[NUM_MINES]);
-void generateMines(unsigned char mines[NUM_MINES]);
-void printMines(unsigned char mines[NUM_MINES]);
-*/
+ char didPlayerHitMine(unsigned char player, unsigned char mines[NUM_MINES]);
+ void generateMines(unsigned char mines[NUM_MINES]);
+ void printMines(unsigned char mines[NUM_MINES]);
+ */
